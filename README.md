@@ -13,10 +13,10 @@ A modern and user-friendly job tracking web application that helps users manage 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS (or any CSS framework you use)
+- **Frontend**: React.js, Tailwind CSS 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT or Clerk (if used)
+- **Authentication**: JWT 
 - **Version Control**: Git & GitHub
 
 ## 📸 Screenshots
